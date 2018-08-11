@@ -29,7 +29,7 @@ MASS
 
 ## Data bundle
 
-This pipeline takes input data that has been bundled and is available TODO (access restricted). Beyond purity estimates from the 10 methods, the bundle contains these reference files:
+This pipeline takes input data that has been bundled and is available [here](https://www.synapse.org/#!Synapse:syn15661196) (access restricted). Beyond purity estimates from the 10 methods, the bundle contains these reference files:
 
 | File | Description |
 | --- | --- |
